@@ -1,0 +1,17 @@
+{
+    "python.linting.mypyEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.pythonPath":"C:\\Users\\rkr\\.virtualenvs\\EDSL-test-w1bf0v15\\Scripts\\python.exe",
+    "python.venvPath": "C:\\Users\\rkr\\.virtualenvs\\EDSL-test-w1bf0v15",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    },
+    "python.defaultInterpreterPath": "C:\\\\Users\\\\rkr\\\\.virtualenvs\\\\EDSL-test-w1bf0v15\\\\Scripts\\\\python.exe\","
+    
+}
